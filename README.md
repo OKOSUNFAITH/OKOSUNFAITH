@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OKOSUNFAITH
+- 👋 Hi, I’m @OKOSUNFAITH and this is a new account
 - 👀 I’m interested in ...
 -
 - 💞️ I’m looking to collaborate on MERN PROJECTS & SPRINGBOOT
